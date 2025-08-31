@@ -1,6 +1,6 @@
-Model Context Protocol 
+# Model Context Protocol 
 
-From beginner to Advance in one single thread
+## From beginner to Advance in one single thread
 
 Model Context Protocal is the protocol developed by Anthropic to make it easier for AI Applications to easily integrate APIs, Datasources and other resources to LLMs.
 
@@ -9,15 +9,15 @@ There are 3 main builing blocks of MCP
 - Resources
 - Prompts
 
-Tools - LLM Driven
-Action that can be performed by MCP servers
-- example, searching the web, adding a calendar entry
+1. Tools - LLM Driven
+    - Action that can be performed by MCP servers
+    - example, searching the web, adding a calendar entry
 
-Resources - Application Driven
-Data, static files, etc. 
+2. Resources - Application Driven
+    - Data, static files, etc. 
 
-Prompts - User Driven
-Built in prompts that user can use.
+3. Prompts - User Driven
+    - Built in prompts that user can use.
 
 
 ## 3 Main Participants
